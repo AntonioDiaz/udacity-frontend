@@ -1,5 +1,7 @@
 # Udagram Simple Frontend
 
+[![Build Status](https://travis-ci.org/AntonioDiaz/udacity-frontend.svg?branch=main)](https://travis-ci.org/AntonioDiaz/udacity-frontend)
+
 Udagram is a simple cloud application developed along side the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into three parts:
